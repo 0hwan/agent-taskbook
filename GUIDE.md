@@ -156,7 +156,7 @@ agent-taskbook/
 │   ├── _TEMPLATE-feature.md      # 기능 핸드오프 규격
 │   ├── _TEMPLATE-bugfix.md       # 버그픽스 핸드오프 규격
 │   └── YYYY-MM-DD-<slug>.md      # 실제 작업 스펙
-└── .github/workflows/            # 검증 게이트
+└── example/                      # 사이클을 돌아보기 위한 Vue 3 예제 앱
 ```
 
 핸드오프 문서는 **버전 관리 대상**이다. PR에 스펙과 구현이 함께 올라가면,

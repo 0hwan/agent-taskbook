@@ -1,0 +1,9 @@
+:root {
+  font-family: system-ui, -apple-system, 'Segoe UI', 'Malgun Gothic', sans-serif;
+  color: #222;
+}
+
+body {
+  margin: 0;
+  background: #fafafa;
+}
